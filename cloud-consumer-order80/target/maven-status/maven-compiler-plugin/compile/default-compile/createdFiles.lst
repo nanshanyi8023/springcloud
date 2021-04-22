@@ -1,3 +1,6 @@
+com\springcloud\lb\LoadBalancer.class
 com\springcloud\config\ApplicationContextConfig.class
+com\myrule\MySelfRule.class
+com\springcloud\lb\MyLB.class
 com\springcloud\controller\OrderController.class
 com\springcloud\OrderMain80.class
